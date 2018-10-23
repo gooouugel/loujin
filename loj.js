@@ -1,4 +1,4 @@
-setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'>تصميم وبرمجه: <a href='https://jawalhost.com/'> zouhair</a></div>").insertAfter($(".loginstat"));  },1000);
+setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'>تصميم وبرمجه: <a href=> zouhair</a></div>").insertAfter($(".loginstat"));  },1000);
 $("div#tlogins button.btn.btn-primary").click(function(){
 var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
    $(`
